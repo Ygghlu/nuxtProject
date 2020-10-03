@@ -8,6 +8,9 @@
           >รายละเอียด</nuxt-link
         >
       </li>
+      {{
+        this.$store.state.counter
+      }}
     </ul>
   </div>
 </template>
