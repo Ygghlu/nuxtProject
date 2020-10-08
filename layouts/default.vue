@@ -60,6 +60,11 @@ export default {
           title: 'Shop',
           to: '/shop',
         },
+        {
+          icon: 'mdi-cart',
+          title: 'Form',
+          to: '/form',
+        },
       ],
       miniVariant: false,
       right: true,
